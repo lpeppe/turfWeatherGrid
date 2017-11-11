@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@turf/helpers": "^5.0.4",
+    "@turf/meta": "^5.0.4",
     "@turf/square-grid": "^5.0.4"
   }
 }
